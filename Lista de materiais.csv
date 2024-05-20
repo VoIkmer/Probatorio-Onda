@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"5 kΩ Potenciômetro"
+"PIEZO1",1," Piezo"
+"R2",1,"1 kΩ Resistor"
+"U3",1,"Baseado em PCF8574, 39 (0x27) LCD 16 x 2 (I2C)"
+"R1",1," Fotorresistor"
